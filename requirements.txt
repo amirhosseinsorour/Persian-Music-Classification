@@ -1,0 +1,17 @@
+# Dependency names derived from notebook imports.
+# Original versions were not supplied; this is not a tested environment lockfile.
+tensorflow
+numpy
+librosa
+scikit-learn
+matplotlib
+seaborn
+arabic-reshaper
+python-bidi
+Pillow
+jupyterlab
+
+# The notebooks mix tensorflow.keras and keras imports.
+# TensorFlow supplies a compatible Keras dependency; do not assume that a fresh
+# installation reproduces the original Colab runtime.
+# google.colab is provided by Colab and is intentionally not listed here.
