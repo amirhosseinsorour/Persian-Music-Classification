@@ -1,4 +1,4 @@
-# Instrument and Dastgah Recognition in Persian Traditional Music
+# Instrument and Scale (Dastgah) Recognition in Persian Traditional Music
 
 **BSc thesis · Amirkabir University of Technology · 2023**
 
@@ -91,8 +91,6 @@ The dependency list is based on imports in the notebooks. The original package v
 
 The source notebooks expect audio recordings, extracted feature pickles, and, for evaluation, saved models. None of these files were included with the notebook archive.
 
-The laptop project inventory also includes a thesis PDF/DOCX and defence slides in PDF/PPTX format. Those documents are not bundled here. PDF copies can be added under `reports/` when the repository's supporting materials are assembled.
-
 The thesis cites the dataset as:
 
 > Baba Ali, B., Gorgan Mohammadi, A., and Faraji Dizaji, A. (2019). Nava: A Persian Traditional Music Database for the Dastgah and Instrument Recognition Tasks. Advanced Signal Processing, 3(2), 125–134.
@@ -106,7 +104,3 @@ This bibliographic entry follows the thesis reference list.
 **Institution:** Amirkabir University of Technology, Department of Computer Engineering  
 **Degree:** BSc in Computer Engineering  
 **Original thesis title:** Automatic Detection of Instrument and Scale (Dastgah) for Persian Traditional Music
-
-## Rights
-
-No software license has been added to this initial repository package. The thesis includes a university rights notice. Rights for the thesis, source code, and third-party dataset should be established before distributing those materials under a license.
